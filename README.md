@@ -1,1 +1,1 @@
-Aqui há as minhas atividades feitas das minhas aulas do Proa/Senac
+Aqui têm as minhas atividades feitas, das minhas aulas do Proa/Senac
