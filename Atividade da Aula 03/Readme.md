@@ -1,22 +1,3 @@
- Minha equipe: Todes 3
-Desenvolver várias páginas HTML 
+Criar um site com a minha equipe Todes 3. Cada um esteve encarregado de fazer uma parte do site, para depois juntar todas as partes, códigos, em um único código.
 
--Uma página com cabeçalho/Comentário HTML com nome completo;
-
--Uma página com  Tabela/ Comentário HTML com nome completo; 
-
--Uma página com  Lista/Comentário HTML com nome completo; 
-
--Uma página com  Texto/Comentário HTML com nome completo;
-
--Uma página texto em cores/Comentário HTML com nome completo; 
-
--Uma página com  LINK (Senac/PROA)/Comentário HTML com nome completo; 
-
--Uma página com  Imagens/Comentário HTML com nome completo;
-
--Uma página com Menu/Comentário HTML com nome completo; 
-
--Uma página com pesquisa/Comentário HTML com nome completo; 
-
--Uma página completa com todos os códigos acima/Comentário HTML com nome completo da equipe.
+Aqui há meu código individual e o código da minha equipe
