@@ -1,1 +1,1 @@
-Vou explicar e utilizar os comandos e para que servem.
+Vou explicar e utilizar os comandos do git e para que servem.
