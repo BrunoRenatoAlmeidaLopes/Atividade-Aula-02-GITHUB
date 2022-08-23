@@ -1,1 +1,1 @@
-Todas as minhas atividades e anotações sobre as soft skills
+Todas as minhas atividades, trabalhos e anotações sobre a área das softs skills. Também aqui está do meu projeto profissional.
