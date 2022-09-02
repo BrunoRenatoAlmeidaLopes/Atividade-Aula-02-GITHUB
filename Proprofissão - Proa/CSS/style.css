@@ -1,0 +1,62 @@
+header{
+    padding: 15px
+}
+.caixa{
+    width: 80%;
+    position: relative;
+    margin:0 auto;
+}
+
+.logo-principal{
+    width: 300px
+}
+
+nav{
+    position: absolute;
+    top: 40px;
+    right: 0
+}
+
+nav li{
+    display: inline;
+    margin-left: 20px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #1C337F;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+.conteudo-principal {
+    display: inline-block;
+    vertical-align: top;
+    width: 40%;
+    margin: 5% 10%
+}
+
+.conteudo-principal h1{
+    font-size: 40px;
+    color: #FDC617;
+
+}
+
+.conteudo-principal h2{
+    font-size: 30px;
+    color: #1C337F;
+    margin-top: 30px
+
+}
+
+.conteudo-principal p{
+    font-size: 22px;
+    color: #1C337F;
+    margin-top: -20px
+}
+
+.imagem-centro{
+    margin-top: 5%
+}
